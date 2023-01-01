@@ -7,6 +7,11 @@ Current development state: **very early**
 Just started to make a reusable module from the source that was previously 
 copied from one project to the next.
 
+### Installation
+
+```shell
+pip install git+https://github.com/defgsus/giterator
+```
 
 ### Usage
 
