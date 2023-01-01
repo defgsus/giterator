@@ -51,6 +51,7 @@ else:
         keywords="git repository data access",
         python_requires='>=3.6, <4',
         install_requires=[
+            "python-dateutil>=2.8.2",
         ],
         classifiers=[
             'Development Status :: 3 - Alpha',
